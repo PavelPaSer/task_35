@@ -1,0 +1,15 @@
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/task 35.csproj.AssemblyReference.cache
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/task 35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/task 35.AssemblyInfoInputs.cache
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/task 35.AssemblyInfo.cs
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/task 35.csproj.CoreCompileInputs.cache
+/Users/pavelpashkov/task 35/bin/Debug/net6.0/task 35
+/Users/pavelpashkov/task 35/bin/Debug/net6.0/task 35.deps.json
+/Users/pavelpashkov/task 35/bin/Debug/net6.0/task 35.runtimeconfig.json
+/Users/pavelpashkov/task 35/bin/Debug/net6.0/task 35.dll
+/Users/pavelpashkov/task 35/bin/Debug/net6.0/task 35.pdb
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/task 35.dll
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/refint/task 35.dll
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/task 35.pdb
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/task 35.genruntimeconfig.cache
+/Users/pavelpashkov/task 35/obj/Debug/net6.0/ref/task 35.dll
