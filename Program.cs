@@ -18,7 +18,7 @@ for (int i = 0; i < numbers.Length; i++)
           if (numbers[i]< max)
             min = numbers[i];
 }
-Console.WriteLine($"Минимальное число = {max}, Максимальное число = {min}");
+Console.WriteLine($"Максимальное число = {max}\nМинимальное число = {min}");
 Console.WriteLine($"Разница между максимальным и минимальным числом = {max - min}");
 
 void FillArrayRandomNumbers(int[] array)
